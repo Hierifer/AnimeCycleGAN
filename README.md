@@ -10,8 +10,8 @@ The project bases on python 3.6 and MXNET framework. Running it requires all pac
 * CUDA
 
 ### Installing
-Anaconda --- Python 3.6
-MXNET --- pip install MXNET
+* Anaconda --- Python 3.6
+* MXNET --- pip install MXNET
 
 ```
 
